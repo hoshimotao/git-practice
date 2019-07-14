@@ -1,3 +1,4 @@
 Name: James T Thomas
 Age: 28
 Favorite Color: Teal
+Major: Web Dev
